@@ -10,11 +10,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="logo.svg"
-   viewBox="0 0 875.89 656.15"
+   viewBox="0 0 172 106"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   inkscape:label="Pozadí">
+   inkscape:label="Pozadí"
+   width="172"
+   height="106">
   <defs
      id="defs3">
     <linearGradient
@@ -31,75 +33,75 @@
     </linearGradient>
     <linearGradient
        id="linearGradient29067"
-       y2="508.08"
+       y2="508.07999"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
        x2="-423.31"
        y1="566.5"
-       x1="-483.07"
+       x1="-483.07001"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29069"
-       y2="508.08"
+       y2="508.07999"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
        x2="-422.5"
-       y1="465.01"
-       x1="-527.03"
+       y1="465.01001"
+       x1="-527.03003"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29071"
-       y2="550.71"
+       y2="550.71002"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
-       x2="-551.53"
-       y1="465.45"
+       x2="-551.53003"
+       y1="465.45001"
        x1="-445.56"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29073"
-       y2="539.84"
+       y2="539.84003"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
-       x2="-462.02"
-       y1="447.23"
-       x1="-493.24"
+       x2="-462.01999"
+       y1="447.23001"
+       x1="-493.23999"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29075"
        y2="551.37"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
-       x2="-444.04"
-       y1="508.08"
-       x1="-513.08"
+       x2="-444.04001"
+       y1="508.07999"
+       x1="-513.08002"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29077"
-       y2="592.59"
+       y2="592.59003"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
-       x2="-398.95"
-       y1="534.66"
-       x1="-485.1"
+       x2="-398.95001"
+       y1="534.65997"
+       x1="-485.10001"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient29079"
-       y2="576.32"
+       y2="576.32001"
        xlink:href="#linearGradient19926"
        gradientUnits="userSpaceOnUse"
-       x2="-401.86"
-       y1="508.08"
-       x1="-512.96"
+       x2="-401.85999"
+       y1="508.07999"
+       x1="-512.96002"
        inkscape:collect="always" />
     <linearGradient
        id="linearGradient1968"
-       y2="249.24"
+       y2="249.24001"
        gradientUnits="userSpaceOnUse"
-       x2="589.8"
+       x2="589.79999"
        gradientTransform="translate(-36.161,-19.255)"
        y1="419.19"
-       x1="848.66"
+       x1="848.65997"
        inkscape:collect="always">
       <stop
          id="stop18126"
@@ -114,7 +116,7 @@
        id="linearGradient1978"
        y2="368.66"
        gradientUnits="userSpaceOnUse"
-       x2="885.3"
+       x2="885.29999"
        gradientTransform="translate(-36.161,-19.255)"
        y1="437.56"
        x1="651.69"
@@ -130,12 +132,12 @@
     </linearGradient>
     <linearGradient
        id="linearGradient1981"
-       y2="456.35"
+       y2="456.35001"
        gradientUnits="userSpaceOnUse"
        x2="174.52"
        gradientTransform="translate(87.257,19.885)"
-       y1="564.61"
-       x1="437.02"
+       y1="564.60999"
+       x1="437.01999"
        inkscape:collect="always">
       <stop
          id="stop14546"
@@ -148,12 +150,12 @@
     </linearGradient>
     <linearGradient
        id="linearGradient1984"
-       y2="520.48"
+       y2="520.47998"
        gradientUnits="userSpaceOnUse"
        x2="243.75"
        gradientTransform="matrix(1.6492,0,0,1.6,153.77,-236.74)"
-       y1="378.86"
-       x1="98.927"
+       y1="378.85999"
+       x1="98.927002"
        inkscape:collect="always">
       <stop
          id="stop3666"
@@ -168,10 +170,10 @@
        id="linearGradient1988"
        y2="230.8"
        gradientUnits="userSpaceOnUse"
-       x2="747.27"
+       x2="747.27002"
        gradientTransform="translate(-60.658,-167.77)"
        y1="345.75"
-       x1="606.97"
+       x1="606.96997"
        inkscape:collect="always">
       <stop
          id="stop27144"
@@ -187,8 +189,8 @@
        y2="288.31"
        gradientUnits="userSpaceOnUse"
        x2="551.69"
-       y1="388.27"
-       x1="969.15"
+       y1="388.26999"
+       x1="969.15002"
        inkscape:collect="always">
       <stop
          id="stop7363"
@@ -202,8 +204,8 @@
     <radialGradient
        id="radialGradient8260"
        gradientUnits="userSpaceOnUse"
-       cy="411.42"
-       cx="916.48"
+       cy="411.42001"
+       cx="916.47998"
        gradientTransform="matrix(1,0,0,3.2543,0.33402,-928.14)"
        r="101.76"
        inkscape:collect="always">
@@ -218,11 +220,11 @@
     </radialGradient>
     <linearGradient
        id="linearGradient9153"
-       y2="411.42"
+       y2="411.42001"
        gradientUnits="userSpaceOnUse"
        x2="1018.2"
-       y1="411.42"
-       x1="814.72"
+       y1="411.42001"
+       x1="814.71997"
        inkscape:collect="always">
       <stop
          id="stop9149"
@@ -235,11 +237,11 @@
     </linearGradient>
     <linearGradient
        id="linearGradient10079"
-       y2="630.3"
+       y2="630.29999"
        gradientUnits="userSpaceOnUse"
-       x2="734.65"
-       y1="712.17"
-       x1="535.99"
+       x2="734.65002"
+       y1="712.16998"
+       x1="535.98999"
        inkscape:collect="always">
       <stop
          id="stop10075"
@@ -252,11 +254,11 @@
     </linearGradient>
     <linearGradient
        id="linearGradient10974"
-       y2="724.77"
+       y2="724.77002"
        gradientUnits="userSpaceOnUse"
-       x2="597.66"
-       y1="614.3"
-       x1="566.04"
+       x2="597.65997"
+       y1="614.29999"
+       x1="566.03998"
        inkscape:collect="always">
       <stop
          id="stop10970"
@@ -269,12 +271,12 @@
     </linearGradient>
     <linearGradient
        id="linearGradient13681"
-       y2="695.41"
+       y2="695.40997"
        gradientUnits="userSpaceOnUse"
        x2="460"
        gradientTransform="translate(65.453,-22.704)"
-       y1="695.41"
-       x1="369.9"
+       y1="695.40997"
+       x1="369.89999"
        inkscape:collect="always">
       <stop
          id="stop13674"
@@ -292,34 +294,34 @@
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
      pagecolor="#ffffff"
-     inkscape:window-height="682"
+     inkscape:window-height="1001"
      width="1052.3622px"
      inkscape:zoom="3.5925919"
-     inkscape:window-x="0"
+     inkscape:window-x="-9"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="layer1"
-     inkscape:cx="78.537754"
-     inkscape:cy="37.878056"
+     inkscape:cx="-9.1161858"
+     inkscape:cy="92.755434"
      showguides="true"
-     inkscape:window-y="0"
-     inkscape:window-width="1016"
+     inkscape:window-y="-9"
+     inkscape:window-width="1920"
      height="744.09448px"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px"
      inkscape:document-rotation="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <g
      id="layer1"
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     transform="translate(-66.961 -25.788)">
+     transform="translate(-66.961,-25.788)">
     <g
        id="g13699"
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/media/KINGSTON/článek/ryba.png"
-       transform="matrix(0.16287144,0,0,0.13617721,64.719633,20.771741)">
+       transform="matrix(0.16287144,0,0,0.13617721,70.008294,22.441845)">
       <path
          id="path10998"
          sodipodi:nodetypes="ccccsccccsc"
@@ -559,7 +561,7 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
@@ -587,7 +589,7 @@
         </dc:subject>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
