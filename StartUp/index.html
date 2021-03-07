@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choose Fish</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <header>
+        <div id="logo" onclick="slowScroll('#top')">
+            <span>Рыбки</span>
+        </div>
+        <div id="about">
+            <a href="#" title="Возможности" onclick="slowScroll('#main')">Возможности</a>
+            <a href="#" title="Преимущество" onclick="slowScroll('#overiew')">Преимущество</a>
+            <a href="#" title="Контакты" onclick="slowScroll('#contacts')">Контакты</a>
+            <a href="#" title="Ответы на вопросы" onclick="slowScroll('#fag')">FAG</a>
+        </div>
+    </header>
+
+    <div id="top">
+        <h1>Навскидку</h1>
+        <h3>Выбери себе рыбку!</h3>
+    </div>
+
+    <div id="main">
+        <div class="intro">
+            <h2>Наши услуги помогут вам!</h2>
+            <span>Большой выбор того, что может помочь вам!</span>
+        </div>
+        <div class="text">
+            <span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam illo accusamus aliquam harum accusantium eligendi inventore sapiente maiores, iste dolor ea, fugit voluptas cum consequuntur perspiciatis? Unde vitae cupiditate culpa ipsa quam doloremque mollitia ea, nisi, delectus repudiandae sapiente voluptatem odio placeat, id minima ut esse qui saepe beatae nostrum?</span>
+        </div>
+    </div>
+
+    <div id="overview">
+        <h2>Приемущества</h2>
+        <h4>Здесь вы сможете найти</h4>
+
+        <div class="img">
+            <img src="https://i.pinimg.com/originals/1d/e1/47/1de147087473a84615e7f3eb1e785085.jpg" alt="">
+            <span>ТОП-20 рыбок для небольших нано-аквариумов</span>
+        </div>
+        <div class="img">
+            <img src="https://cs8.pikabu.ru/post_img/2018/01/06/7/15152399541875467.jpg" alt="">
+            <span>Почему аквариумные рыбки дерутся?</span>
+        </div>
+        <div class="img">
+            <img src="https://look.com.ua/pic/201806/1920x1080/look.com.ua-288997.jpg" alt="">
+            <span>10 самых неприхотливых аквариумных рыбок</span>
+        </div>
+        <div class="img">
+            <img src="https://img2.pngio.com/best-53-glofish-background-on-hipwallpaper-glofish-background-aquarium-background-png-1920_1080.png" alt="">
+            <span>Святящиеся рыбки GloFish</span>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        function slowScroll(id) {
+            $('html, body').animate({
+                scrollTop: $(id).offset().top
+            },500);
+        }
+
+        $(document).on("scroll", function () {
+            if($(window).scrollTop() === 0)
+                $("header").removeClass("fixed");
+            else
+                $("header").attr("class","fixed");
+        });
+    </script>
+</body>
+</html>
