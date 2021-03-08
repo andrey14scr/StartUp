@@ -119,6 +119,7 @@ header.fixed #logo {
 @media (max-width: 1000px) and (min-width: 651px){
     #top {
         font-size: 2em;
+        height: 600px;
     }
 }
 
@@ -126,6 +127,7 @@ header.fixed #logo {
     #top {
         font-size: 1.5em;
         padding-top: 50%;
+        height: 500px;
     }
 }
 
@@ -230,4 +232,49 @@ header.fixed #logo {
         margin-right: 0!important;
         margin-left: 10%!important;
     }
+}
+
+/* блок с контактами */
+#contacts {
+    width: 100%;
+    float: left;
+    padding-bottom: 40px;
+    padding-top: 70px;
+    border-top: 4px solid #ccc;
+    background: #f4f4f4;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto Slad', serif;
+    font-weight: lighter;
+}
+
+#contacts h5 {font-size: 3em; color: #4f4f4f; }
+
+#form_input {
+    margin-bottom: 15px;
+    width: 35%;
+    margin-left: 38%;
+    font-size: 1.1em;
+}
+
+#form_input label {
+    color: #505050;
+    cursor: pointer;
+    font-size: 1.4em;
+    font-family: 'Roboto Slad', serif;
+}
+
+#form_input label > span {
+    color: #e87e7e;
+}
+
+#form_input input, #form_input textarea {
+    margin-bottom: 10px;
+    width: 70%;
+    padding: 10px 2%;
+    border-radius: 7px;
+    border: 2px solid silver;
+    font-size: 0.9em;
+    color: #4a4a4a;
 }
