@@ -278,3 +278,84 @@ h1, h2, h3, h4, h5 {
     font-size: 0.9em;
     color: #4a4a4a;
 }
+
+#form_input input:focus, #form_input textarea:focus {
+    border-color: #333;
+}
+
+.btn {
+    float: left;
+    border-radius: 5px;
+    padding: 5px 9px;
+    font-size: 1.2em;
+    background-color: #ec6550;
+    text-shadow: #454545 0 0 2px;
+    cursor: pointer;
+    color: white;
+    font-family: 'Roboto Slad', serif;
+}
+
+.btn:hover {
+    background-color: #c15443;
+}
+
+/*Вопросы и ответы*/
+
+#faq {
+    background-color: #fff;
+    border-top: 2px dashed #e4e3e3;
+    width: 100%;
+    float: left;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#faq div {
+    width: 25%;
+    margin-left: 6%;
+    float: left;
+}
+
+#faq .title {
+    font-weight: lighter;
+    color: #a3a0ad;
+    margin-bottom: 20px;
+    font-size: 2.2em;
+}
+
+#faq .heading {
+    color: #7d7d7d;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+#faq p {
+    font-family: Arimo, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #4a4a4a;
+    font-size: 0.95em;
+    margin-bottom: 40px;
+}
+
+@media (min-width: 801px) {
+    #faq div {
+        width: 25%;
+        margin-left: 6%;
+        float: left;
+    }
+}
+
+@media (max-width: 800px) {
+    #faq div {
+        width: 80%;
+        margin-left: 10%;
+        float: left;
+    }
+}
+
+#faq .title {
+    font-weight: lighter;
+    color: #a3a0ad;
+    margin-bottom: 20px;
+    font-size: 2.2em;
+}
